@@ -12,13 +12,12 @@
 
 - 🌱 I’m currently learning **BlockChain Technologies**
 
-- 👨‍💻 All of my projects are available at [**My portfolio website**](https://atharao.github.io/my-website/)
+- 👨‍💻 My work/projects are available at [**My portfolio website**](https://atharao.github.io/my-portfolio-website/)
+
+-  📄 Know about my experiences [**My resume website**](https://atharao.github.io/my-resume-website/)
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **raoathar.200@gmail.com**
-
-- 📄 Know about my experiences [**My resume website**](https://atharao.github.io/my-website/)
 
 - ### ⚙️ &nbsp; Tech Stack :
 
