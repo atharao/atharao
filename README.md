@@ -9,13 +9,14 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharao&label=Profile%20views&color=0e75b6&style=flat" alt="atharao" /> </p>
--  📝 You can take a look at my professionally formatted resume.
 
-- 🌱 I’m currently learning **BlockChain Technologies**
+-  📝 You can take a look at my professionally formatted Resume [**Here**](https://github.com/atharao/Latex_Resume/blob/main/Resume%20pdf/Rao_Athar_khan_Resume.pdf).
 
 - 👨‍💻 My work/projects are available at [**My portfolio website**](https://atharao.github.io/my-portfolio-website/)
 
 -  📄 Know about my experiences [**My resume website**](https://atharao.github.io/my-resume-website/)
+
+- 🌱 I’m currently learning **BlockChain Technologies**
 
 - 💬 Ask me about **Web Development**
 
