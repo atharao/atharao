@@ -14,7 +14,7 @@
 
 -  📄 Know about me [**Here**](https://atharao.github.io/about-me/)
 
-- 👨‍💻 My work/projects are available [**Here**](https://atharao.github.io/my-portfolio-website/)
+- 👨‍💻 My work/projects are available [**Here**](https://atharao.github.io/portfolio-website/)
 
 - 🌱 I’m currently learning **BlockChain Technologies**
 
