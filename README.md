@@ -12,9 +12,9 @@
 
 -  📝 You can take a look at my professionally formatted Resume [**Here**](https://github.com/atharao/Latex_Resume/blob/main/Resume%20pdf/Rao_Athar_khan_Resume.pdf).
 
-- 👨‍💻 My work/projects are available at [**My portfolio website**](https://atharao.github.io/my-portfolio-website/)
+-  📄 Know about me [**Here**](https://atharao.github.io/about-me/)
 
--  📄 Know about my experiences [**My resume website**](https://atharao.github.io/my-resume-website/)
+- 👨‍💻 My work/projects are available [**Here**](https://atharao.github.io/my-portfolio-website/)
 
 - 🌱 I’m currently learning **BlockChain Technologies**
 
