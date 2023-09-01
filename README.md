@@ -12,7 +12,7 @@
 
 -  📝 You can take a look at my professionally formatted Resume [**Here**](https://github.com/atharao/Latex_Resume/blob/main/Resume%20pdf/Rao_Athar_khan_Resume.pdf).
 
--  📄 Know about me [**Here**](https://atharao.github.io/about-me/)
+-  📄 Know about me [**Here**](https://atharao.github.io/)
 
 - 👨‍💻 My work/projects are available [**Here**](https://atharao.github.io/portfolio-website/)
 
