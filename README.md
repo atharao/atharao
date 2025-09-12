@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Rao+Athar+khan!;&center=true&size=25">
   </a>
 </h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Front-End Developer from India</h3>
 
 <img align="right" alt="Coder GIF" height=260 width=360 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
@@ -13,15 +13,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharao&label=Profile%20views&color=0e75b6&style=flat" alt="atharao" /> </p>
 
--  📝 You can take a look at my professionally formatted Resume [**Here**](https://github.com/atharao/Latex_Resume/blob/main/Resume%20pdf/Rao_Athar_khan_Resume.pdf).
+-  📝 Resume [**Here**](https://drive.google.com/file/d/1Yhk5esCmsC99mEY8m0WjXI_nJqLnTo6I/view?usp=sharing).
 
--  📄 Know about me [**Here**](https://atharao.github.io/)
+-  📄 Blogs [**Here**](https://atharao.github.io/)
 
-- 👨‍💻 My work/projects are available [**Here**](https://atharao.github.io/portfolio-website/)
+- 🌱 I’m currently learning **Next.js & Nuxt.js**
 
-- 🌱 I’m currently learning **BlockChain Technologies**
-
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Front-End Development**
 
 - 🏆 Some prestigious badges earned during **2023 Hacktoberfest** 👇 
 
